@@ -1,0 +1,1 @@
+export const CATEGORIES = ['Trending', 'AI', 'Neural', 'Automation', 'Machine Learning'];
