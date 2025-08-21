@@ -1,9 +1,9 @@
+import { AlertCircle, Bookmark, CheckCircle, Clock, ExternalLink, Eye, Share2 } from 'lucide-react';
 import React, { useState } from 'react';
-import { Card, CardContent } from './ui/card';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 import { Badge } from './ui/badge';
 import { Button } from './ui/button';
-import { Clock, Eye, Bookmark, ExternalLink, Share2, AlertCircle, CheckCircle } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallback';
+import { Card, CardContent } from './ui/card';
 
 interface Article {
   id: string;

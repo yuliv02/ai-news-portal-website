@@ -54,6 +54,7 @@
       "scripts": {
             "dev": "vite",
             "build": "vite build"
+            
       },
       "description": "This is a code bundle for AI News Portal Website. The original project is available at https://www.figma.com/design/dvpiKxRNT1rvtT4G9Aa6Wt/AI-News-Portal-Website.",
       "main": "index.js",
